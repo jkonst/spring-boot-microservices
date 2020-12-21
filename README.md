@@ -1,4 +1,4 @@
-# CryptoBroker Take-Home Challenge
+# USD to BTC buy API
 This is a Spring Boot Microservice implementation consisting of 3 
 microservice APIs 
 - account-service
